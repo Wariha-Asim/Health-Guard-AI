@@ -30,6 +30,7 @@ It combines robust ML models with an interactive, user-friendly dashboard to mak
 ├── heart.csv # Dataset (UCI Heart Disease Dataset)
 ├── app.py # Main Streamlit application
 └── README.md # Project documentation
+└── requirements.txt
 
 ## 📊 Dataset
 
