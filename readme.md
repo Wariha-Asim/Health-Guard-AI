@@ -46,9 +46,10 @@ Target variable: HeartDisease (0 = No, 1 = Yes)
 ![Dashboard Overview](dashboard.png)
 
 ## ❤️ Prediction Example
-![Prediction Example](prediction.png)
+![Prediction Example](predictionreults.png)
 
-
+## Input Features
+![input](input.PNG)
 
 ## ⚠️ Disclaimer
 
