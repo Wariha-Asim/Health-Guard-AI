@@ -24,6 +24,10 @@ It combines robust ML models with an interactive, user-friendly dashboard to mak
 - **Human-Readable Clinical Summary** → Translates numeric inputs into real-world terms (Male/Female, Angina: Yes/No)  
 - **Downloadable Data** → Explore and export dataset insights as CSV  
 
+## 🚀 Live Demo  
+
+Check out the **HeartGuard AI** web app here:  
+[🌐 Open HeartGuard AI](https://heart-guard-ai-ut3x6n8zudabxkssebajey.streamlit.app/)
 
 ## 📂 Project Structure  
 📁 Heart-Guard-AI
