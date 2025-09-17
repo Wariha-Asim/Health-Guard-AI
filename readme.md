@@ -43,10 +43,10 @@ Target variable: HeartDisease (0 = No, 1 = Yes)
 # 🖼️ Screenshots — HeartGuard AI
 
 ## 📊 Dashboard Overview
-![Dashboard Overview](dashboard.png)
+![Dashboard Overview](dashboard.PNG)
 
 ## ❤️ Prediction Example
-![Prediction Example](predictionreults.png)
+![Prediction Example](predictionreults.PNG)
 
 ## Input Features
 ![input](input.PNG)
