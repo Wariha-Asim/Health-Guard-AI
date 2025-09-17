@@ -1,7 +1,6 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-import matplotlib.pyplot as plt
 from sklearn.preprocessing import StandardScaler, LabelEncoder
 from sklearn.model_selection import train_test_split
 import xgboost as xgb
@@ -457,4 +456,5 @@ with tab4:
 # -------------------------------
 st.markdown("---")
 st.markdown("<div style='text-align:center;'>This tool is for <b>informational and educational purposes only</b> and is not a medical diagnostic tool.</div>", unsafe_allow_html=True)
+
 
